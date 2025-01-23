@@ -34,7 +34,7 @@ Takes from the opposite rows in the remaining graphs.
 <br>
 <br>
 
-## Line Graph
+## Line Graphic
 First, enter the x values ​​in the "X DÜZLEMİ" section, then enter your y coordinates in the "Y DÜZLEMİ" section. In the "ADLANDIR" section, enter a name for the y plane in the "Y" field, enter a name for the x plane in the "X" field, and write your title in the "BAŞLIK" field and click on the "Oluştur" button.
 
 ![line_graph_create](https://github.com/user-attachments/assets/675f14c3-6ac8-4ea2-bcfa-e3cc5247c933)
@@ -56,4 +56,20 @@ First, enter your values ​​in order in the "DEĞER" section. Then, you can n
 
 ![circle_graph](https://github.com/user-attachments/assets/918b8340-1437-45f0-bce0-310461978d1a)
 
+## Bar Graphic
+First, enter your values ​​in order in the "DEĞER" section, then name your columns in the "ADLANDIR" section. Finally, enter an English color in the "RENK" section and enter the title of your chart in the "BAŞLIK" section.
+
+![bar_graph_create](https://github.com/user-attachments/assets/d48b9384-b7a2-40c0-a1c9-88c8d8149c36)
+
+#### RESULT :
+
+![bar_graph](https://github.com/user-attachments/assets/e24a81cf-6063-4431-8e0a-cb5e4e960106)
+
+<br>
+<br>
+<br>
+<br>
+
+>[!NOTE]
+> You can visit the website for more information.
 
