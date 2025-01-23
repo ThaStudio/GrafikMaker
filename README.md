@@ -27,11 +27,13 @@ GrafikMaker is a simple free application that you can use to create simple graph
 Takes from the opposite rows in the remaining graphs.
 
 <br>
-<br>
-<br>
 
 >[!WARNING]
-> Enter all colors in *English*.
+> Enter all colors in **English**.
+
+<br>
+<br>
+<br>
 
 ## Line Graph
 First, enter the x values ​​in the "X DÜZLEMİ" section, then enter your y coordinates in the "Y DÜZLEMİ" section. In the "ADLANDIR" section, enter a name for the y plane in the "Y" field, enter a name for the x plane in the "X" field, and write your title in the "BAŞLIK" field and click on the "Oluştur" button.
