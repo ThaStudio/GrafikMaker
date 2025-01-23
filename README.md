@@ -35,12 +35,13 @@ First, enter the x values ​​in the "X DÜZLEMİ" section, then enter your y 
 
 ![line_graph_create](https://github.com/user-attachments/assets/675f14c3-6ac8-4ea2-bcfa-e3cc5247c933)
 
-RESULT :
+#### RESULT :
 
 ![line_graph](https://github.com/user-attachments/assets/6d3511a4-53eb-40fa-87fd-9ef81ffd70f4)
 
 <br>
 
-##Circle Graphic
+## Circle Graphic
+
 
 
