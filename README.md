@@ -1,4 +1,4 @@
-# Grafik Maker 1.0.5 [PRE-ALPHA]
+İlk# Grafik Maker 1.0.5 [PRE-ALPHA]
 
 Web Site : https://thastudio.my.canva.site/grafikmaker
 
@@ -29,6 +29,9 @@ Takes from the opposite rows in the remaining graphs.
 <br>
 <br>
 <br>
+
+>[!WARNING]
+> Enter all colors in *English*.
 
 ## Line Graph
 First, enter the x values ​​in the "X DÜZLEMİ" section, then enter your y coordinates in the "Y DÜZLEMİ" section. In the "ADLANDIR" section, enter a name for the y plane in the "Y" field, enter a name for the x plane in the "X" field, and write your title in the "BAŞLIK" field and click on the "Oluştur" button.
