@@ -1,4 +1,4 @@
-İlk# Grafik Maker 1.0.5 [PRE-ALPHA]
+# Grafik Maker 1.0.5 [PRE-ALPHA]
 
 Web Site : https://thastudio.my.canva.site/grafikmaker
 
@@ -31,7 +31,6 @@ Takes from the opposite rows in the remaining graphs.
 >[!WARNING]
 > Enter all colors in **English**.
 
-<br>
 <br>
 <br>
 
