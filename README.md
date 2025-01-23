@@ -44,6 +44,8 @@ First, enter the x values ​​in the "X DÜZLEMİ" section, then enter your y 
 ![line_graph](https://github.com/user-attachments/assets/6d3511a4-53eb-40fa-87fd-9ef81ffd70f4)
 
 <br>
+<br>
+<br>
 
 ## Circle Graphic
 First, enter your values ​​in order in the "DEĞER" section. Then, you can name them according to the value you entered in the "ADLANDIR" section. Then, enter the English colors in order in the color section. Enter a title for your list in the "LİSTE BAŞLIK" section. Finally, enter the title of your chart in the "BAŞLIK" section.
