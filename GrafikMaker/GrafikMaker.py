@@ -8,7 +8,7 @@ Grafik Maker [1.0.5 PRE-ALPHA] open soruce codes.
 
 Do not use this app for any commercial or malware purposes.
 
-Copyright © Tha Studio Entertainment, License : Apache License 2.0
+License : Apache License 2.0
 
 """
 
